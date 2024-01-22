@@ -1,1 +1,3 @@
-# cs365-spring24
+# CS365 FOUNDATIONS OF DATA SCIENCE (Prof. Tsourakakis ctsourak@bu.edu) 
+
+
